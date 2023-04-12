@@ -35,9 +35,10 @@ linkedin_username: jekyll
 theme: minima
 plugins:
   - jekyll-feed
-  # - jekyll-paginate
-# paginate: 5
-# Spaginate_path: "/blog/page:num/"
+  - jekyll-paginate
+
+paginate: 4
+paginate_path: posts/page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
