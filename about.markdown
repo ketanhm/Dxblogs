@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Senior Client Partner helping Clients with revenue acceleration, cycle time reduction, cost optimization, and regulatory compliance
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Skilled in trusted consulting to cultivate and oversee executive customer relationships and deliver digital transformation programs
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Brings industry context, understanding of technology to frame solutions that meet Client’s objectives 
 
-
-[jekyll-organization]: https://github.com/jekyll
+Lead Delivery Assurance and teams
