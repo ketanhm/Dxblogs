@@ -6,7 +6,7 @@ category: [digital transformation, fintech]
 tags: [digital, fintech]
 ---
 
-![Fintech - Competing in digital workd](/images/fintech.png "Fintech - Competing in digital world")
+![Fintech - Competing in digital workd](/assets/images/fintech.jpg)
 
 The maturing of digital technologies (Internet/Web, Mobile, and Blockchain) continues to disintermediate traditional banks, and have led to growth of ‘fintech’ firms. Many fintech companies start-up with little or no regulatory/government oversight-costs, no legacy business processes, and consume third-party API’s for many traditional back-office functions, resulting in lower cost of service/fee to consumers.
 
