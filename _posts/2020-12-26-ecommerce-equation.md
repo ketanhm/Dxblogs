@@ -2,7 +2,7 @@
 layout: post
 title: "Digital Transformation in action!"
 date:   2020-12-26
-images: /assets/images/ec-equation.png
+images: /assets/images/ec-equation.jpg
 ---
 
 ![Ecommerce Equation](../assets/images/ec-equation.jpg)
