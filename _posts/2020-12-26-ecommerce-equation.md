@@ -1,15 +1,11 @@
-+++
-aauthor = "Ketan Momaya"
-title = "Ecommerce Equation"
-date = "2020-12-26"
-description = "Equation of ecommerce online sales"
-featured = true
-tags = ["digital", "ecommerce", "featured"]
-categories = ["digital"]
-thumbnail = "images/ec-equation.png"
-+++
+---
+layout: post
+title: "Digital Transformation in action!"
+date:   2020-12-26
+images: /assets/images/ec-equation.png
+---
 
-![Equation of ecommerce](/images/ec-equation.jpg)
+![Ecommerce Equation](../assets/images/ec-equation.jpg)
 
 # Successful online sales = A * B * C
 

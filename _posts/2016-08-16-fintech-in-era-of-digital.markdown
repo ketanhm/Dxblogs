@@ -7,6 +7,8 @@ image: /assets/images/fintech.jpg
 
 The maturing of digital technologies (Internet/Web, Mobile, and Blockchain) continues to disintermediate traditional banks, and have led to growth of ‘fintech’ firms. Many fintech companies start-up with little or no regulatory/government oversight-costs, no legacy business processes, and consume third-party API’s for many traditional back-office functions, resulting in lower cost of service/fee to consumers.
 
+![Fintech](../assets/images/fintech.jpg)
+
 
 Banks revenues are falling due to: lower net interest margin (near zero fed rates), fintech chipping away on their fee based incomes. To keep their margins, banks have to increase fees, and drop customer service (no face banker). This is resulting in customers easily adopting fintech companies. When Millennia’s need a financial service, by habit they ‘Google’ and guess which companies show up in search results – fintech.
 

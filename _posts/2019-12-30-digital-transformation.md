@@ -1,16 +1,14 @@
-+++
-author = "Ketan Momaya"
-title = "Digital Transformation in action"
-date = "2019-12-30"
-description = "How digital is transforming various industries"
-featured = false
-tags = ["digital", "ecommerce"]
-categories = ["digital"]
-thumbnail = "images/d-tx.png"
-+++
+---
+layout: post
+title: "Digital Transformation in action!"
+date:   2019-12-30
+image: /assets/images/d-tx.jpg
 
-![Digital Transformation](/images/d-tx.jpg)
-## As 2019 closes, and I reflect on my conversations this year with Functional/Technology leaders, the value of “Digital Business” couldn’t be clearer. "Digital Transformation" is the drive to improve “Top line” and “Bottom line” by re-imagining current business and improving its performance, using software/digital technologies as enablers.
+---
+
+![Digital Transformation](../assets/images/d-tx.jpg)
+
+As 2019 closes, and I reflect on my conversations this year with Functional/Technology leaders, the value of “Digital Business” couldn’t be clearer. "Digital Transformation" is the drive to improve “Top line” and “Bottom line” by re-imagining current business and improving its performance, using software/digital technologies as enablers.
 
 Across industries (Financial Services, Retail, Hi-Tech Manufacturing and Retail-CPG), digital technologies helped achieve 3 key business imperatives & Transformations:
 
@@ -41,15 +39,15 @@ High Availability Application: Running it on a private PaaS solution to meet obj
 # Digital Transformation in 2020 and beyond
 As we began our next decade, some of the current buzz-words/pitches will gain solid traction and become widely adopted. Digital transformation will continue and the push to improve “Top Line” and “Bottom Line” continues. And at end of 2020, I wish I have successful use-cases to share with digital technologies such as:
 
-#### IoT
+## IoT
 Sensors and applications to monitor goods through the supply chain, logistics, food safety, asset tracking, smart tags to thwart counterfeiting
 
-#### VR/AR
+## VR/AR
 Provide rich customer experience at each stage of their journey. A step towards experience economy
 
-#### Chatbots & Virtual Assistants
+## Chatbots & Virtual Assistants
 Better response to human interactions and drive higher customer satisfaction
 
-#### Robotic process automation (RPA)
+## Robotic process automation (RPA)
 F&A/HR/Supply Chain processes have seen the benefits. It will see more usage in core areas; Banks/Finance – bring down compliance/regulatory costs; Retail/CPG: Automate trade promotions, in-store planning
 
