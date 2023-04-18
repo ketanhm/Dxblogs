@@ -2,7 +2,7 @@
 layout: post
 title: "Rebundling of Financial Services!"
 date:   2020-12-30 
-images /assets/images/Rebundling Financial Services.jpg
+images: /assets/images/Rebundling Financial Services.jpg
 ---
 
 ![Fintech - Rebundling financial services](../assets/images/Rebundling%20Financial%20Services.jpg)\
