@@ -29,10 +29,14 @@ url: "https://ketanhm.github.io" # the base hostname & protocol for your site, e
 
 # twitter_username: jekyllrb
 
-github_username:  jekyll
-linkedin_username: jekyll
+github_username:  ketanhm
+linkedin_username: ketanmomaya
 
 author: Ketan Momaya
+
+copyright: "Ketan Momaya"
+
+title-logo: /assets/images/title-logo.png
 
 # Build settings
 # theme: minima
