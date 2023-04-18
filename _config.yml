@@ -26,10 +26,13 @@ description: >
     Experiences, Insights, Platforms in few industries.
 baseurl: "/Dxblogs" # the subpath of your site, e.g. /blog
 url: "https://ketanhm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+
+# twitter_username: jekyllrb
+
 github_username:  jekyll
 linkedin_username: jekyll
 
+author: Ketan Momaya
 
 # Build settings
 # theme: minima
