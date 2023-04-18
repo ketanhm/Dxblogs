@@ -46,8 +46,13 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-paginate: 2
+paginate: 4
 paginate_path: "posts/page:num/"
+
+header_pages:
+  - digital.markdown
+  - general.markdown
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
