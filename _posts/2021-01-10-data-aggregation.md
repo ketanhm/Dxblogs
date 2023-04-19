@@ -2,11 +2,10 @@
 layout: post
 title: "Data Aggregation & Digital Transformation in BFSI Companies"
 date:   2021-01-10 
-images: /assets/images/dtx-bfsi.jpg
+image: /assets/images/dtx-bfsi.jpg
 
 
 ---
-![Digital Transformation in Financial Industry](/images/dtx-bfsi.jpg)
 
 Towards end 2020 Consumer Financial Protection Bureau [CFPB](http://www.consumerfinance.gov) issued an advance notice of proposed rulemaking [ANPR](https://www.consumerfinance.gov/about-us/newsroom/cfpb-anpr-consumer-authorized-access-financial-data/) related to consumer’s access to financial records that will eventually become a law. It seeks to establish US framework for Open Banking / Open Finance. This will create a financial ecosystem that enhances consumer financial lives, increase competition for financial service provider, & enable innovative products and services from disruptors/fintechs.
 
