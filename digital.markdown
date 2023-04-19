@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Transformation
+title: Digital 
 permalink: /digital/
 ---
 
