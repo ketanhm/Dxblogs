@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data at heart of Ecommerce transformation!"
-date:   2021-01-10 
+date:   2021-01-11 
 image: /assets/images/data.jpg
 ---
 
