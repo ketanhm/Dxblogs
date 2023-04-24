@@ -200,12 +200,13 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  
 }
 
 .post-link {
   display: block;
   @include relative-font-size(1.5);
-}
+  }
 
 
 
@@ -284,6 +285,13 @@
 
 .blog-roll-image {
   width: 75px;
+  height: 75px;
+  object-fit: cover;
+  float: left;
+}
+
+.blog-roll-image1 {
+  width: 15px;
   height: 75px;
   object-fit: cover;
   float: left;

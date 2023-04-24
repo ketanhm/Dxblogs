@@ -19,11 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Digital Transformation
-email: your-email@example.com
+email: email@outlook.com
 description: >
-  Blogs sharing learnings as a trusted advisor to CIOs and technology leaders. Enterprise Strategic Priorities result
-   in Business Needs, that become Digital Transformation initiatives. Broadly will cover topics of general interest in
-    Experiences, Insights, Platforms in few industries.
+  Blogs sharing learnings as a trusted advisor to CIOs and technology leaders. Broadly covering
+    trends in building: Experiences, Insights, Platforms.
 baseurl: "/Dxblogs" # the subpath of your site, e.g. /blog
 url: "https://ketanhm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -33,9 +32,7 @@ github_username:  ketanhm
 linkedin_username: ketanmomaya
 
 author: Ketan Momaya
-
 copyright: "Ketan Momaya"
-
 title-logo: /assets/images/title-logo.png
 
 
@@ -55,18 +52,7 @@ header_pages:
   - categories.markdown
   - about.markdown
 
-collections:
-  category:
-    output: true
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
-
+# show_excerpts: true 
 
 # Exclude from processing.
 # The following items will not be processed, by default.

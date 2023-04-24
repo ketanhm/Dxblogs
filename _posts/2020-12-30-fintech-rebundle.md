@@ -20,7 +20,7 @@ Fintech drove the financial services industry transformation by adopting to cons
 
 # Fintech unbundled the bank
 
-![Unbundled Bank](../../_site/assets/images/unbundled.png)
+![Unbundled Bank]({{ site.baseurl }}/assets/images/unbundled.png)
 
 1. Fintech offered mobile first experience
 2. Hyper focused on single use-case/market/experience
@@ -35,7 +35,7 @@ Fintech drove the financial services industry transformation by adopting to cons
 
 # Fintech 2.0 - Rebundling
 
-![Rebundled Fintech](/digital.github.io/assets/images/ant.png)
+![Rebundled Fintech]({{ site.baseurl }}/assets/images/ant.png)
 
 * Start and establish one service and establish consumer relationship
 * Capture consumer data, enrich consumer identity, build own AI/credit scoring data model

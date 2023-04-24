@@ -15,6 +15,9 @@ permalink: /general/
                        {%- assign postImage = "/assets/images/image-default.jpg" -%}  
                        <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">
                     {%- endif -%}
+                     
+                  {%- assign postImage1 = "/assets/images/image-default1.jpg" -%}  
+                  <img src="{{- postImage1 | relative_url -}}" alt="" class="blog-roll-image1">
 
                     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                     <span class="post-meta">{{ post.date | date: date_format }}</span>
