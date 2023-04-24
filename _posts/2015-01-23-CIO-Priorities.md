@@ -2,7 +2,8 @@
 layout: post
 title: "Top 7 CIO Priorities!"
 date:   2015-01-23 16:10:18 -0700
-category: general
+image:
+categories: General
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title: "Digital Transformation in action!"
 date:   2019-12-30
 image: /assets/images/d-tx.jpg
+categories: Digital
 ---
 
 

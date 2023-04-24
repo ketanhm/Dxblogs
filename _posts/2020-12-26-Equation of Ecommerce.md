@@ -3,6 +3,7 @@ layout: post
 title: "Equation of Ecommerce"
 date:   2020-12-26
 image: /assets/images/equation.jpg
+categories: Digital
 ---
 
 # Successful online sales = Traffic * Conversion * Value of Order

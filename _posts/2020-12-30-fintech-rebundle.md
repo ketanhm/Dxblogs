@@ -3,6 +3,7 @@ layout: post
 title: "Rebundling of Financial Services!"
 date:   2020-12-30 
 image: /assets/images/rebundle.jpg
+categories: Digital
 ---
 
 

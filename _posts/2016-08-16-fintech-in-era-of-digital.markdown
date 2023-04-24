@@ -3,6 +3,7 @@ layout: post
 title: "Fintech in era of Digital!"
 date:   2016-02-16
 image: /assets/images/fintech.jpg
+categories: Digital
 ---
 
 The maturing of digital technologies (Internet/Web, Mobile, and Blockchain) continues to disintermediate traditional banks, and have led to growth of ‘fintech’ firms. Many fintech companies start-up with little or no regulatory/government oversight-costs, no legacy business processes, and consume third-party API’s for many traditional back-office functions, resulting in lower cost of service/fee to consumers.

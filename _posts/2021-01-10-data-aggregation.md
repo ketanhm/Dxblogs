@@ -3,7 +3,7 @@ layout: post
 title: "Data Aggregation & Digital Transformation in BFSI Companies"
 date:   2021-01-10 
 image: /assets/images/dtx-bfsi.jpg
-
+categories: Digital
 
 ---
 
