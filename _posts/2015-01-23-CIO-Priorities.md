@@ -17,4 +17,4 @@ categories: General
 
 [BA]: {{site.baseurl}}/general/2015/02/23/Business-and-Technology-Alignment.html
 [AA]: {{site.baseurl}}/general/2015/03/23/Achieving-Agility.html
-[MR]: {{site.baseurl}}/general/2015/04/23/Mitigate-Risk.md
+[MR]: {{site.baseurl}}/general/2015/04/23/Mitigate-Risk.html
