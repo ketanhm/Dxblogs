@@ -15,4 +15,4 @@ categories: General
 6.	Find right balance between cost, quality, and speed
 7.	Lower TCO
 
-[BA]: https://ketanhm.github.io/Dxblogs/general/2015/02/23/Business-and-Technology-Alignment.html
+[BA]: {{site.baseurl}}/general/2015/02/23/Business-and-Technology-Alignment.html
