@@ -21,8 +21,7 @@
 title: Digital Transformation
 email: email@outlook.com
 description: >
-  Blogs sharing learnings as a trusted advisor to CIOs and technology leaders. Broadly covering
-    trends in building: Experiences, Insights, Platforms.
+  Blogs on Digital and General Technology Topics. Covers broad trends: Experiences, Data, Platforms.
 baseurl: "/Dxblogs" # the subpath of your site, e.g. /blog
 url: "https://ketanhm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 

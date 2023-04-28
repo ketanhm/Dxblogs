@@ -1,8 +1,13 @@
 ---
 layout: page
-title: General Posts
+title: General
 permalink: /general/
 ---
+Blogs on strategies and tactics of digital Information Technology Leaders and trusted Consulting Advisors. 
+
+CIO & IT Leaders are leading the effort to digitally transform their function and make their enterprise digital at warp speed.
+
+Trusted digital Consulting Advisor are helping IT Leaders in scaling up **Digitization**, **Cloud Transformation**, **Technology Cost Optimization**, and **Accelerate Value Realization**. 
 
 <div class="home">
 

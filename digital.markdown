@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Digital Topics
+title: Digital
 permalink: /digital/
 ---
+Digital disruption is reshaping entire industries globally. Enterprises need to be agile, innovate by using emerging technologies to grow and be efficient. 
+
+Industry leaders are able to create sticky digital **EXPERIENCES**, powered by **DATA**, and running on optimized **PLATFORMS**.
 
 <div class="home">
 
